@@ -1,4 +1,4 @@
-# course
+# Data Science and AI for Global Decision-Making<br />Sogang University Fall 2026<br />Professor Iegor Vyshnevskyi
 
 
 
