@@ -1,7 +1,7 @@
 # Data Science and AI for Global Decision-Making
 
 ## Python, Evidence, and Intelligent Tools for Business, Policy, and International Affairs
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GSIS-DS-Fall-2026/data-science-ai-global-decision-making/blob/main/notebooks/week-01/01_data_ai_evidence_global_decision_making.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GSIS-DS-Fall-2026/data-science-ai-global-decision-making/main) [![Slack](https://img.shields.io/badge/Slack-Join%20Workspace-4A154B?logo=slack)](https://eclass.sogang.ac.kr/) [![Sogang LMS](https://img.shields.io/badge/Sogang%20LMS-Go%20to%20LMS-00599C?logo=googleclassroom)](https://eclass.sogang.ac.kr/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GSIS-DS-Fall-2026/data-science-ai-global-decision-making/blob/main/notebooks/week-01/01_data_ai_evidence_global_decision_making.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GSIS-DS-Fall-2026/data-science-ai-global-decision-making/main) [![Slack](https://img.shields.io/badge/Slack-Join%20Workspace-4A154B?logo=slack)](https://eclass.sogang.ac.kr/) [![DataCamp](https://shields.io)[(https://eclass.sogang.ac.kr/](https://app.datacamp.com/)) [![Sogang LMS](https://img.shields.io/badge/Sogang%20LMS-Go%20to%20LMS-00599C?logo=googleclassroom)](https://eclass.sogang.ac.kr/)
 
 This course introduces practical data-science
 
